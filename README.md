@@ -1,4 +1,18 @@
-### Hi there 👋
+Hi there 👋
+
+This is Deniz :) 
+
+I used to work as a Biochemist and I am currently a data science student at Data Sceince Tech Institute (DSTI) which is an applied Msc Science in France.  
+
+I am currently working on:
+
+* Artificial Neural Networks
+* Computer vision
+* Time-series
+* Agent-based modelling
+* Graph databases (especially Neo4j - preparing the certification)
+
+This is my personal Github page where I gather some mini-projects that I do on my spare time. 
 
 <!--
 **TacticalNuclearRaccoon/TacticalNuclearRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # Title 1
 ## Title 2
@@ -68,3 +82,5 @@ for i in range(10):
 Fist Test : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erick-dsti/FirstRepository/main?filepath=%2Fnotebook%2FJupyter_notebook_your_turn.ipynb)
 
 Second Test : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erick-dsti/FirstRepository/main?filepath=%2Fnotebook%2Fcalibration.ipynb)
+
+-->
