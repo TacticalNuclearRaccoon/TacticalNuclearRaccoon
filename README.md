@@ -1,8 +1,8 @@
-Hi there 👋
+# Hi there 👋 I am Deniz :) 
 
-This is Deniz :) 
+I used to work as a Biochemist and I am currently a **Data Science** student at Data Sceince Tech Institute (DSTI) which is an applied Msc Science in France. I will have my diploma soon (May 2022 🌱 )  
 
-I used to work as a Biochemist and I am currently a data science student at Data Sceince Tech Institute (DSTI) which is an applied Msc Science in France.  
+This is my personal Github page where I gather some mini-projects that I do on my spare time. 
 
 I am currently working on:
 
@@ -10,9 +10,12 @@ I am currently working on:
 * Computer vision
 * Time-series
 * Agent-based modelling
-* Graph databases (especially Neo4j - preparing the certification)
+* Graph databases (especially Neo4j - Just obtained the certification!! 😄)
+* Cybersecurity
 
-This is my personal Github page where I gather some mini-projects that I do on my spare time. 
+You can check out the latest project I have been involved in, [here!] (https://github.com/DSTI-ClickLearn/ClickLearn_DSTI_Project)
+
+[![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TacticalNuclearRaccoon)](https://github.com/TacticalNuclearRaccoon/github-readme-stats)
 
 <!--
 **TacticalNuclearRaccoon/TacticalNuclearRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
