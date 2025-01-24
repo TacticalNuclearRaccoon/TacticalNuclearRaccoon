@@ -10,7 +10,7 @@ I am currently working on:
 * Computer vision
 * Time-series
 * Agent-based modelling
-* Graph databases (especially Neo4j - Just obtained the certification!! 😄)
+* Graph databases
 * Cybersecurity
 
 You can check out the latest project I have been involved in, [here!] (https://github.com/DSTI-ClickLearn/ClickLearn_DSTI_Project)
