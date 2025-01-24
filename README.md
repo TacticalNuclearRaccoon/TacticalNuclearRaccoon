@@ -1,6 +1,6 @@
 # Hi there 👋 I am Deniz :) 
 
-I used to work as a Biochemist and I am currently a **Data Science** student at Data Sceince Tech Institute (DSTI) which is an applied Msc Science in France. I will have my diploma soon (May 2022 🌱 )  
+I used to work as a Biochemist converted to **Data Scientist** 
 
 This is my personal Github page where I gather some mini-projects that I do on my spare time. 
 
