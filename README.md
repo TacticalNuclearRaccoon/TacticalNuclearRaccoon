@@ -13,7 +13,7 @@ I am currently working on:
 * Graph databases
 * Cybersecurity
 
-You can check out the latest project I have been involved in, [here!] (https://github.com/DSTI-ClickLearn/ClickLearn_DSTI_Project)
+You can check out the latest project I have been involved in, [here](https://github.com/DSTI-ClickLearn/ClickLearn_DSTI_Project) !
 
 [![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TacticalNuclearRaccoon)](https://github.com/TacticalNuclearRaccoon/github-readme-stats)
 
