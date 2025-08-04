@@ -1,17 +1,11 @@
 # Hi there 👋 I am Deniz :) 
 
-I used to work as a Biochemist converted to **Data Scientist** 
+I used to be a Biochemist (research scientist) and now I work as a Data Scientist. 
 
-This is my personal Github page where I gather some mini-projects that I do on my spare time. 
-
-I am currently working on:
-
-* Artificial Neural Networks
-* Computer vision
-* Time-series
-* Agent-based modelling
-* Graph databases
-* Cybersecurity
+- 🔭 I’m currently working on building agents and chatbots from opensource ollama models
+- 🌱 I’m currently learning front end web development (to make nice UIs for my apps other than streamlit)
+- 👯 I’m looking to collaborate on anything that will allow me to learn something new 
+- ⚡ Fun fact: If I am angry enough, I can bench press 50 kg.
 
 You can check out the latest project I have been involved in, [here](https://github.com/DSTI-ClickLearn/ClickLearn_DSTI_Project) !
 
@@ -21,16 +15,6 @@ You can check out the latest project I have been involved in, [here](https://git
 **TacticalNuclearRaccoon/TacticalNuclearRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 # Title 1
 ## Title 2
